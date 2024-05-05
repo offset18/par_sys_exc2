@@ -1,0 +1,16 @@
+TestOMP;1;25;729.778
+TestOMP;1;25;928.115
+TestOMP;2;25;482.249
+TestOMP;3;25;503.103
+TestOMP;4;25;226.919
+TestOMP;5;25;228.068
+TestOMP;6;25;237.843
+TestOMP;7;25;230.91
+TestOMP;8;25;260.316
+TestOMP;9;25;245.882
+TestOMP;10;25;247.384
+function;iterations;threads;elapsedtime
+function;iterations;threads;elapsedtime
+function;iterations;threads;elapsedtime
+function;iterations;threads;elapsedtime
+function;iterations;threads;elapsedtime

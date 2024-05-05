@@ -1,0 +1,6 @@
+# ninja log v5
+1	1524	7363616330901243	CMakeFiles/par_sys_exc2_v3.dir/main.cpp.obj	902e68dc069ab18
+1	37	0	clean	d3ec806c043fac72
+4	629	7363616839682450	build.ninja	4cc1a65b96b7015a
+0	40	0	clean	567f01a6bad3308b
+6	1669	7363616874662716	CMakeFiles/par_sys_exc2_v3.dir/main.cpp.obj	902e68dc069ab18
