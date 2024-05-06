@@ -109,8 +109,9 @@ void csvwrite(std::string namesrcfile, std::string filename, std::string funcnam
 
 option = 3;
 iterations = 1;
-arrsize = 4;
+arrsize = 8;
 nrthreads = 4;
+long long n = 6;
 
 
 
@@ -150,7 +151,7 @@ nrthreads = 4;
 
                 for (int x = 0; x < iterations; x++) {
                     auto t1 = std::chrono::high_resolution_clock::now();
-                    printf("fib(%d)",arrsize, parallel_fib(arrsize,nrthreads));
+                    printfib(n, nrthreads);
                     auto t2 = std::chrono::high_resolution_clock::now();
                     double diffs3 =
                             (double)std::chrono::duration_cast<std::chrono::microseconds>(t2 - t1).count()/1000;
